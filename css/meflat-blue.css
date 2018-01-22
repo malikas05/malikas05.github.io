@@ -648,9 +648,9 @@ a:focus,
     line-height:28px;
 }
 
-.skills, contact-form {
+.skills {
     margin-top:60px;
-}
+}  
 
 .chart {
   position: relative;
@@ -680,7 +680,7 @@ a:focus,
   font-size: 50%;
 }
 
-.skills h2, contact-form h2 {
+.skills h2 {
     margin:0 0 80px;
     font-family:'Titillium Web';
     font-size:24px;
